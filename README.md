@@ -4,10 +4,10 @@ This repository consists of a collection of materials that discuss quantitative 
 
 ## Content
 
-* Credit risk 
+1. Credit risk 
 
-* Market risk
+2. Market risk
 
-* IRRBB
+3. IRRBB
 
 ...
