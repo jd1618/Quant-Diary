@@ -1,1 +1,1 @@
-# quant-diary
+# Quant-Diary
